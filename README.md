@@ -1,6 +1,6 @@
-# 📦 Inventory Management Dashboard (Excel Project)
+# 📦📊 Inventory Management Dashboard | Excel Project
 
-🚀 Interactive Excel Dashboard for Inventory Tracking | Data Visualization | Business Insights
+🚀 Interactive Excel Dashboard for Inventory Tracking | Data Visualization | Business Insights | HR Analytics Perspective
 
 ---
 
@@ -33,7 +33,6 @@
 ## 📸 Dashboard Preview
 
 ### ✨ Main Dashboard
-
 <p align="center">
   <img src="dashboard.png" width="800"/>
 </p>
@@ -41,43 +40,45 @@
 ---
 
 ### 🔍 More Views
-
 <p align="center">
-  <img src="dashboard%202.png" width="30%"/>
-<img src="dashboard%203.png" width="30%"/>
-<img src="dashboard%204.png" width="30%"/>
+  <img src="dashboard2.png" width="30%"/>
+  <img src="dashboard3.png" width="30%"/>
+  <img src="dashboard4.png" width="30%"/>
 </p>
 
 ---
 
-## 💡 Insights
+## 💡 Key Insights
 
-* Helps in tracking inventory efficiently
-* Improves decision-making using data
-* Identifies low stock items quickly
-* Provides clear supplier contribution
-
+* Enables efficient inventory tracking  
+* Supports data-driven decision making  
+* Identifies low stock items quickly  
+* Enhances supplier performance visibility  
 ---
 
-## 🚀 Future Improvements
+## 🌱 Learning & Growth
 
-* Add automation using VBA
-* Real-time data integration
-* Advanced analytics dashboards
-
+* Exploring HR analytics using Excel  
+* Learning automation with VBA  
+* Understanding real-time data integration  
 ---
 
-## 👩‍💻 About Me
+## 👩‍💼 About Me
 
-Hi, I’m **Saloni Agarwal**
-🎯 Aspiring Data Analyst | Excel Enthusiast
+Hi, I’m **Saloni Agarwal**  
 
+🎯 Aspiring HR Professional | BA.Voc HRM Student  
+
+* 💡 Interested in recruitment, employee engagement, and workplace culture  
+* 📊 Skilled in using Excel for data analysis and reporting  
+* 🤝 Passionate about people management, communication, and team coordination  
+* 📋 Basic understanding of HR processes like hiring, onboarding, and employee relations  
 ---
 
 ## 🔗 Connect with Me
 
 * 💼 LinkedIn: https://linkedin.com/in/saloni-agarwal-7b9484291/
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 📧 Email: agarwalsaloni546@gmail.com
 
 ---
 
