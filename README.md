@@ -1,7 +1,6 @@
-# 📦📊 Inventory Management Dashboard | Excel Project
+# 📦📊 Inventory Management Dashboard | Excel Project (HR Analytics Perspective)
 
-🚀 Interactive Excel Dashboard for Inventory Tracking | Data Visualization | Business Insights | HR Analytics Perspective
-
+🚀 Interactive Excel Dashboard for Inventory Tracking with insights applicable to HR analytics, decision-making, and performance monitoring
 ---
 
 ## ✨ Key Highlights
@@ -21,6 +20,7 @@
 * Data Visualization (Charts)
 * Data Cleaning
 * Slicers & Interactive Filters
+* HR Analytics Concepts
 
 ---
 
@@ -62,6 +62,9 @@
 * Learning automation with VBA  
 * Understanding real-time data integration  
 ---
+---  
+📌 This project demonstrates data analysis skills that can be applied to HR analytics and workforce management  
+---
 
 ## 👩‍💼 About Me
 
@@ -72,7 +75,7 @@ Hi, I’m **Saloni Agarwal**
 * 💡 Interested in recruitment, employee engagement, and workplace culture  
 * 📊 Skilled in using Excel for data analysis and reporting  
 * 🤝 Passionate about people management, communication, and team coordination  
-* 📋 Basic understanding of HR processes like hiring, onboarding, and employee relations  
+* 📋 Understanding of HR processes including hiring, onboarding, and employee relations
 ---
 
 ## 🔗 Connect with Me
